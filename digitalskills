@@ -1,0 +1,231 @@
+<!-- Milka Chakravarthi - Landing Page (HTML + Canva guide)
+     Generated: 2025-10-16
+     Notes: This single-file HTML is ready to upload. Below the HTML there's a Canva design brief and editable text blocks for easy copy-paste.
+-->
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Milka Chakravarthi — Digital Skills Trainer & Entrepreneur</title>
+  <meta name="description" content="Helping housewives & working professionals build digital income sources. Trainer at Digital Billionaire. Founder, M&N Sparks.">
+  <style>
+    :root{--accent:#E87A8A;--dark:#0f1724;--muted:#6b7280;--card:#ffffff}
+    *{box-sizing:border-box}
+    body{font-family:Inter,Segoe UI,Arial,sans-serif;margin:0;background:#f7f8fb;color:var(--dark);line-height:1.45}
+    .container{max-width:1100px;margin:0 auto;padding:28px}
+    header{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
+    .brand{display:flex;gap:14px;align-items:center}
+    .logo{width:68px;height:68px;border-radius:10px;background:linear-gradient(135deg,#fbe6e9,#ffdfe6);display:flex;align-items:center;justify-content:center;font-weight:700}
+    h1{font-size:28px;margin:0}
+    .sub{color:var(--muted);margin-top:6px}
+    .cta{display:flex;gap:10px}
+    .btn{background:var(--accent);color:#fff;padding:10px 16px;border-radius:10px;text-decoration:none;font-weight:600}
+    .btn.ghost{background:transparent;color:var(--accent);border:1px solid rgba(232,122,138,.2)}
+    .grid{display:grid;grid-template-columns:1fr 380px;gap:28px;margin-top:18px}
+    .card{background:var(--card);padding:18px;border-radius:12px;box-shadow:0 6px 18px rgba(19,24,34,.04)}
+    .courses{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+    .course{padding:12px;border-radius:10px;border:1px solid #f0f0f3}
+    .muted{color:var(--muted);font-size:14px}
+    .testimonials{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:12px}
+    footer{margin-top:28px;padding:18px 0;color:var(--muted);font-size:14px;border-top:1px solid #eef2f6}
+    @media(max-width:880px){.grid{grid-template-columns:1fr}.courses{grid-template-columns:1fr}.testimonials{grid-template-columns:1fr}}
+    .tagline-multi{margin-top:8px;font-weight:600}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo">M&N</div>
+        <div>
+          <div style="font-weight:700">Milka Chakravarthi</div>
+          <div class="muted">Trainer at Digital Billionaire • Founder, M&N Sparks Clothing Brand</div>
+        </div>
+      </div>
+      <div class="cta">
+        <a class="btn" href="#book">Book a Free Call</a>
+        <a class="btn ghost" href="#courses">Explore Courses</a>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="card">
+      <div style="display:flex;gap:18px;align-items:center">
+        <img src="https://via.placeholder.com/120x120.png?text=Your+Photo" alt="Milka Photo" style="width:120px;height:120px;border-radius:12px;object-fit:cover">
+        <div>
+          <h1>Helping Housewives & Working Professionals Build Digital Income Sources</h1>
+          <div class="sub">Learn high-paid skills in your regional language — Tamil, Kannada, Telugu & English. Start freelancing, get clients, and grow your business with practical mentorship.</div>
+          <div class="tagline-multi">Learn high-paid skills • Free mentorship guidance • Affiliate Marketing & More</div>
+          <div style="margin-top:12px;display:flex;gap:10px">
+            <a class="btn" href="#book">Book a Free Strategy Call</a>
+            <a class="btn ghost" href="#courses">View Courses & Mentorship</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="grid">
+      <main>
+        <!-- About -->
+        <section class="card" id="about">
+          <h2 style="margin-top:0">About Milka Chakravarthi</h2>
+          <p class="muted">Milka is a Software Engineer turned Digital Skills Trainer, Mentor and Entrepreneur with 7+ years of experience in corporate IT (Automation Testing, Java, Web Development). She is a certified Trainer at <strong>Digital Billionaire</strong> and the Founder of <strong>M&N Sparks Clothing Brand</strong>. After rebuilding her life through freelancing and digital businesses, she now mentors housewives and working professionals to earn from their skills.</p>
+          <ul class="muted" style="margin-top:8px">
+            <li>7+ years in corporate IT</li>
+            <li>Mentored 1000+ students across India</li>
+            <li>Practical, results-focused learning</li>
+          </ul>
+        </section>
+
+        <!-- Courses -->
+        <section class="card" id="courses" style="margin-top:16px">
+          <h2 style="margin-top:0">Courses & Programs — (6 months mentorship included)</h2>
+          <p class="muted">All courses include 6 months of mentorship, weekly live Q&A, practical projects, and lifetime community access. For pricing, please <a href="#book">book a call</a>.</p>
+          <div class="courses" style="margin-top:12px">
+            <div class="course"><strong>Canva Design Mastery</strong><div class="muted">Create social media creatives, logos & client projects.</div></div>
+            <div class="course"><strong>Video Editing Masterclass</strong><div class="muted">Edit viral Reels & YouTube videos using Filmora & Canva.</div></div>
+            <div class="course"><strong>Resume Writing & Branding</strong><div class="muted">Build job-winning resumes & LinkedIn profiles.</div></div>
+            <div class="course"><strong>Instagram Growth Strategy</strong><div class="muted">Grow a personal brand & monetize content.</div></div>
+            <div class="course"><strong>Social Media Marketing (SMM)</strong><div class="muted">Client-ready SMM skills & campaigns.</div></div>
+            <div class="course"><strong>Web Development</strong><div class="muted">HTML, CSS, JavaScript + projects for freelancing.</div></div>
+            <div class="course"><strong>Automation Testing</strong><div class="muted">Tools, frameworks & real-time project work.</div></div>
+            <div class="course"><strong>Java Programming</strong><div class="muted">Core to advanced Java with real projects.</div></div>
+            <div class="course"><strong>Python Programming</strong><div class="muted">Automation, scripting & project building.</div></div>
+            <div class="course"><strong>C & C++ Fundamentals</strong><div class="muted">Strong programming foundations.</div></div>
+            <div class="course"><strong>Affiliate Marketing</strong><div class="muted">Earn commissions by promoting products and courses — strategy, funnels & content.</div></div>
+          </div>
+        </section>
+
+        <!-- Mentorship -->
+        <section class="card" style="margin-top:16px">
+          <h2 style="margin-top:0">6-Month Mentorship — What You Get</h2>
+          <ul class="muted">
+            <li>1:1 & Group Coaching</li>
+            <li>Weekly Live Q&A & Project Reviews</li>
+            <li>Freelancing Roadmap & Client Templates</li>
+            <li>Resume, Portfolio & Interview Prep</li>
+            <li>Canva Templates, Scripts & Funnels for Affiliate Marketing</li>
+            <li>Lifetime Community Access</li>
+          </ul>
+          <p class="muted" style="margin-top:8px">Ready to start? <a href="#book">Book a free strategy call</a> to discuss your goals and pricing.</p>
+        </section>
+
+        <!-- Testimonials -->
+        <section class="card" style="margin-top:16px">
+          <h2 style="margin-top:0">Student Success Stories</h2>
+          <div class="testimonials">
+            <div>
+              <p><strong>Deepika R — Hyderabad</strong></p>
+              <p class="muted">“I was a homemaker with zero technical background. After joining Milka Ma’am’s mentorship, I learned Canva and freelancing — now I earn ₹35,000/month from home!”</p>
+            </div>
+            <div>
+              <p><strong>Pooja S — Bengaluru</strong></p>
+              <p class="muted">“Her teaching style is practical and motivating. I landed my first freelance client within 2 months of joining her SMM course!”</p>
+            </div>
+            <div>
+              <p><strong>Sneha M — Chennai</strong></p>
+              <p class="muted">“Milka is not just a trainer — she’s a true mentor who believes in your potential. Her support changed my life.”</p>
+            </div>
+            <div>
+              <p><strong>Ravi K — Pune</strong></p>
+              <p class="muted">“Thanks to her mentorship, I upskilled from testing to web development. Now I’ve built 3 websites for clients and started earning part-time.”</p>
+            </div>
+          </div>
+        </section>
+
+      </main>
+
+      <!-- Sidebar / Lead form -->
+      <aside>
+        <div class="card" id="book">
+          <h3 style="margin-top:0">Book a Free Strategy Call</h3>
+          <p class="muted">Discuss your goals, choose the right course, and get a customised plan. Pricing is shared on call.</p>
+          <form action="https://formsubmit.co/your-email@example.com" method="POST" onsubmit="alert('Thanks! We will contact you. Replace form action with your endpoint')">
+            <input type="hidden" name="_subject" value="New Landing Page Lead">
+            <div style="margin-top:8px">
+              <label class="muted">Full name</label>
+              <input required name="name" style="width:100%;padding:10px;border-radius:8px;border:1px solid #e9eef4;margin-top:6px">
+            </div>
+            <div style="margin-top:8px">
+              <label class="muted">Phone / WhatsApp</label>
+              <input required name="phone" style="width:100%;padding:10px;border-radius:8px;border:1px solid #e9eef4;margin-top:6px">
+            </div>
+            <div style="margin-top:8px">
+              <label class="muted">Which course are you interested in?</label>
+              <select name="course" style="width:100%;padding:10px;border-radius:8px;border:1px solid #e9eef4;margin-top:6px">
+                <option>Canva Design</option>
+                <option>Video Editing</option>
+                <option>Resume Writing</option>
+                <option>Instagram Growth</option>
+                <option>SMM</option>
+                <option>Web Development</option>
+                <option>Automation Testing</option>
+                <option>Java</option>
+                <option>Python</option>
+                <option>C / C++</option>
+                <option>Affiliate Marketing</option>
+              </select>
+            </div>
+            <div style="margin-top:12px;display:flex;gap:8px">
+              <button class="btn" type="submit">Book Call</button>
+              <a class="btn ghost" href="https://wa.me/91XXXXXXXXXX">Message on WhatsApp</a>
+            </div>
+          </form>
+
+          <div style="margin-top:12px" class="muted">Languages: Tamil, Kannada, Telugu & English. Choose your preferred language on the call.</div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h4 style="margin-top:0">Why Milka’s Programs Work</h4>
+          <ul class="muted">
+            <li>Skill-first, result-driven curriculum</li>
+            <li>Real projects and freelancing templates</li>
+            <li>Supportive community & lifetime access</li>
+          </ul>
+        </div>
+
+      </aside>
+    </div>
+
+    <footer>
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap">
+        <div>© 2025 Milka Chakravarthi | Trainer at Digital Billionaire | Founder, M&N Sparks</div>
+        <div style="display:flex;gap:12px;align-items:center">
+          <a class="muted" href="#">Instagram</a>
+          <a class="muted" href="#">YouTube</a>
+          <a class="muted" href="#">WhatsApp</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- CANVA DESIGN BRIEF & EDITABLE TEXT BLOCKS -->
+  <!-- Copy the text below into Canva text boxes. Use a soft-pink accent, rounded cards, and friendly photos. Use a mix of Telugu/Kannada/Tamil lines near the hero as visual callouts. -->
+
+  <!-- DESIGN NOTES FOR CANVA (editable) -->
+  <!--
+  1) Page size: 1440 x 2560 (long-scroll website mockup) or create separate sections as shareable images.
+  2) Colors: Accent (#E87A8A), Dark (#0f1724), Neutral background (#f7f8fb), Card white.
+  3) Fonts: Inter / Poppins. Headline large & bold, body medium.
+  4) Sections: Hero (photo left, text right), About, Courses grid (icons for each course), Mentorship features, Testimonials (portrait + quote), Lead form card.
+  5) Replace placeholder photo with Milka's real photo. Add M&N Sparks logo where logo placeholder is.
+  6) Add language chips near hero: "Tamil | ಕನ್ನಡ | తెలుగు | English" and a small tagline: "Learn high-paid skills in your language".
+  7) Use CTA buttons with rounded 12px and slight shadow.
+
+  EDITABLE TEXT BLOCKS (copy/paste):
+  - Hero Headline: Helping Housewives & Working Professionals Build Digital Income Sources
+  - Hero Subheadline: Learn high-paid skills in your regional language — Tamil, Kannada, Telugu & English. Start freelancing, get clients, and grow your business with practical mentorship.
+  - Tagline chip: Learn high-paid skills • Affiliate Marketing • 6-month Mentorship
+  - About short: Milka Chakravarthi — Software Engineer turned Digital Skills Trainer, Mentor & Entrepreneur. Trainer at Digital Billionaire & Founder, M&N Sparks Clothing Brand. 7+ years in IT. Mentored 1000+ learners.
+  - Course card titles & short descriptions: (use same text as in HTML above)
+  - Mentorship bullets: 1:1 coaching, Weekly Q&A, Freelancing roadmap, Resume & portfolio, Lifetime community.
+  - Testimonial 1: Deepika R — "I was a homemaker... now I earn ₹35,000/month"
+  - Testimonial 2: Pooja S — "I landed my first freelance client within 2 months"
+  - CTA button text: Book a Free Strategy Call
+  - Footer: © 2025 Milka Chakravarthi | Trainer at Digital Billionaire | Founder, M&N Sparks
+  -->
+
+</body>
+</html>
